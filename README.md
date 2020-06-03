@@ -1,2 +1,2 @@
 # newrepo
-This is my first repo created for startng
+This is my first repo created for HNG
